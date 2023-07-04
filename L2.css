@@ -1,0 +1,41 @@
+body {background-color: floralwhite;
+    margin: 10px; 
+    
+
+}
+
+div{
+    border: 3px solid black;
+    width: 55%;
+
+
+
+}
+
+a{
+    color:black;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+h2{
+    font-size: 40px;
+    margin: 20px;
+    color:saddlebrown;
+}
+
+p{
+    font-size: 20px;
+}
+
+h3{ 
+    color: sienna;
+}
+#first-img{
+
+    display:list-item;
+    width: 30%;
+    margin: auto;
+}
